@@ -32,6 +32,11 @@ How to Run
 3. Run "gui_calculator.py" to open the graphical calculator.
 4. Run "calculator.py" to use the command-line calculator.
 
+## Project Preview
+
+![Amina's Calculator](Amina's%20calculator.png)
+
+
 Author
 
 Amina Kiani
